@@ -1,6 +1,7 @@
 # BasicBrickBreaker
 Basic Brick Breaker game programmed in the Scratch visual programming language
 - [Overview](#overview)
+- [Running the game](#running-the-game)
 - [Level selection](#level-selection)
 - [Gameplay](#gameplay)
 - [Ending](#ending) 
@@ -9,6 +10,11 @@ Basic Brick Breaker game programmed in the Scratch visual programming language
 This game is a very basic remake of the classic game.
 Using a bouncing ball and a paddle, the goal is to break all bricks and clear the level.
 The game ends when a player loses all his lives.
+
+## Running the game
+The file can be downloaded from Github free of charge.
+Simply download the file found under:
+[Game file](BasicBrickBreaker/tree/master)
 
 ## Level selection
 <p align="middle">
