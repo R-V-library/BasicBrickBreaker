@@ -15,6 +15,9 @@ The game ends when a player loses all his lives.
 The file can be downloaded from Github free of charge.
 Simply download the file found under:
 [Game file](../../tree/master)
+Play the game online by uploading the file to:
+[Scratch website](https://scratch.mit.edu/projects/editor/)
+Or play it locally if you have Scratch installed on your computer.
 
 ## Level selection
 <p align="middle">
