@@ -12,7 +12,7 @@ Using a bouncing ball and a paddle, the goal is to break all bricks and clear th
 The game ends when a player loses all his lives.
 
 ## Running the game
-The file can be downloaded from Github free of charge.
+The file can be downloaded from Github free of charge. <br>
 Simply download the file found under:
 [Game file](../../tree/master)
 Play the game online by uploading the file to:
@@ -24,7 +24,7 @@ Or play it locally if you have Scratch installed on your computer.
 <img src="img/title_screen.png" width="500" title="Title screen" alt="Title screen" />
 </p>
 
-Upon launching the game the player is greeted with a title screen.
+Upon launching the game the player is greeted with a title screen.<br>
 To continue to the level selection any key can be pressed.
 
 <p align="middle">
@@ -39,14 +39,14 @@ To start a game, simply press space.
 <p align="middle">
 <img src="img/game.png" width="500" title="Gameplay" alt="Gameplay" />
 </p>
-After level selection the playing field is shown and a ball is launched from the paddle.
-A touched brick will immediately dissappear from the playing field.
-Each touched brick adds 100 points to the score. Every area cleared adds 1000 additional points.
-The ball automatically bounces when it touches a boundary wall, except for the bottom.
-Player lives are displayed on the left side.
+After level selection the playing field is shown and a ball is launched from the paddle.<br>
+A touched brick will immediately dissappear from the playing field. <br>
+Each touched brick adds 100 points to the score. Every area cleared adds 1000 additional points. <br>
+The ball automatically bounces when it touches a boundary wall, except for the bottom. <br>
+Player lives are displayed on the left side.<br>
 One live is subtracted each time the player fails to bounce the ball back towards the bricks.
-Otherwise the game continues indefinetely.
-After each 10 000 points, the background changes to the next scene.
+Otherwise the game continues indefinetely.<br>
+After each 10 000 points, the background changes to the next scene. <br>
 
 ## Ending
 <p align="middle">
