@@ -14,7 +14,7 @@ The game ends when a player loses all his lives.
 ## Running the game
 The file can be downloaded from Github free of charge.
 Simply download the file found under:
-[Game file](../../master)
+[Game file](../../tree/master)
 
 ## Level selection
 <p align="middle">
