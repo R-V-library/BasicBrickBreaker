@@ -44,7 +44,7 @@ A touched brick will immediately dissappear from the playing field. <br>
 Each touched brick adds 100 points to the score. Every area cleared adds 1000 additional points. <br>
 The ball automatically bounces when it touches a boundary wall, except for the bottom. <br>
 Player lives are displayed on the left side.<br>
-One live is subtracted each time the player fails to bounce the ball back towards the bricks.
+One live is subtracted each time the player fails to bounce the ball back towards the bricks. <br>
 Otherwise the game continues indefinetely.<br>
 After each 10 000 points, the background changes to the next scene. <br>
 
